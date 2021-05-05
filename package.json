@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://YuliiaBond.github.io/Project-IceCream",
+  "homepage": "https://YriiHvozdetskiy.github.io/Team-project-HTML-IceCream",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url /Project-IceCream/",
+    "predeploy": "npm run build -- --public-url /Team-project-HTML-IceCream/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
